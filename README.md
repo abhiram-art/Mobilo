@@ -26,7 +26,7 @@ Builds the app for production to the `build` folder.<be>
 
 ### Starting the server
 
-'''
+```
 npm run build
 npm run start
-'''
+```
